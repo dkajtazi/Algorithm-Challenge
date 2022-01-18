@@ -1,0 +1,1 @@
+This algorithm finds the shortest distance from the starting point(node) to every other point(node).
